@@ -1,6 +1,6 @@
 # Applying to Jobs Online 
 
-With dozens of job websites like Github Jobs, Dice, Indeed and more, applying online seems like the way to go. *You can sit in your living room, in your PJs, and send out resumes, right?*
+With dozens of job websites like Github Jobs, Dice, and Indeed, applying online seems like the way to go. *You can sit in your living room, in your PJs, and send out resumes, right?*
 
 While applying for jobs online can feel like you’re making progress in your job search, **it should by no means be the only job search approach you take.** For some, applying for jobs online can make sense more than it does for others. The factor that impacts this the most is where you live.  
 
@@ -20,7 +20,7 @@ Continue to seek out people who work at companies you’re eyeing, and ask them 
 
 An advantage of living in a smaller area is that there are fewer developers, specifically, a smaller pool of applicants who are applying to openings. This means that your resume is less likely to get lost in the crowd—the way it does when there’s a large pool of applicants. Also, when you live in a smaller city, you may be one of the only developers in your area. Being one of the few with a specific skillset can give you a significant leg up when it comes to landing interviews and subsequent job offers. 
 
-## Conclusion 
+## Next Steps
 
 Your main focus in your job search (and likely to produce the best results) is to tap into and build your professional network. If you choose to apply to jobs online, keep in mind that people get jobs from people, not from the internet, so you’re more likely to attain your goals of getting a job offer if you prioritize networking over online applications. 
 
