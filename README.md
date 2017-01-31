@@ -8,7 +8,7 @@ While applying for jobs online can feel like you’re making progress in your jo
 
 If you reside in a major tech hub, applying to positions online is not an efficient use of your time. There are often [hundreds of applicants](https://careercenter.umich.edu/article/how-increase-your-odds-getting-interview) for a single opening. When this is the case, you’re better off connecting with people who already work for the company (or who know people who work for the company), and try to get an “in” (aka referral) that way. 
 
-If you live in or near a large city, especially one with a bustling tech scene (like New York, San Francisco, Austin, Boston, Seattle, Washington D.C., etc.) there are hundreds of meetups and events can attend. For this reason, there’s no excuse to **not** get out there (literally) and network with others. People get jobs from people.
+If you live in or near a large city, especially one with a bustling tech scene (like New York, San Francisco, Austin, Boston, Seattle, Washington D.C., etc.) there are hundreds of meetups and events you can attend. For this reason, there’s no excuse to **not** get out there (literally) and network with others. People get jobs from people.
 
 When you meet people face-to-face, it’s much easier to establish trust and build meaningful relationships. These are the kinds of relationships that can then translate into an introduction or referral. 
 
@@ -27,3 +27,5 @@ Your main focus in your job search (and likely to produce the best results) is t
 The next few lessons will cover ways you can leverage and build your professional network.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-applying-to-jobs-online'>Careers Applying to Jobs Online </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-applying-to-jobs-online'>Applying To Jobs Online</a> on Learn.co and start learning to code for free.</p>
