@@ -30,4 +30,4 @@ An advantage of living in a smaller area is that there are fewer practitioners i
 
 Your main focus in your job search (and likely to produce the best results) is to tap into and build your professional network. If you choose to apply to jobs online, keep in mind that people get jobs from people, not from the Internet, so you’re more likely to attain your goals of getting a job offer if you prioritize networking over online applications.
 
-The next Effective Networking unit covers ways you can leverage and build your professional network.
+Revisit the Effective Networking unit to review ways you can leverage and build your professional network.
